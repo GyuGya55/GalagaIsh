@@ -1,0 +1,1 @@
+C:\GameFiles\GalagaIsh\UWPGame\UWPGame.csproj;x64

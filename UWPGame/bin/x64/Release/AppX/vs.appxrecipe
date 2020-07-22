@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MUEOSQR</Machine>
+    <WindowsUser>GyuGya_55</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>906b4261-d2e3-46e9-a0bd-0733b805cd35</PackageIdentityName>
+    <PackageIdentityPublisher>CN=GyuGya_55</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\GameFiles\GalagaIsh\UWPGame\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>222DAB0332134485993066D58CE7DFED69E20645F01FBCDC9C9D2422AF4D1F8B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>906b4261-d2e3-46e9-a0bd-0733b805cd35_1.0.0.0_x64__3gm04j1b76jby</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>906b4261-d2e3-46e9-a0bd-0733b805cd35_3gm04j1b76jby!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>906b4261-d2e3-46e9-a0bd-0733b805cd35</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=GyuGya_55</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-07-22T20:17:04.140</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\background.png">
+      <PackagePath>Assets\Textures\background.png</PackagePath>
+      <Modified>2020-05-09T18:08:26.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\enemy.png">
+      <PackagePath>Assets\Textures\enemy.png</PackagePath>
+      <Modified>2020-05-18T18:08:20.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\highscores.png">
+      <PackagePath>Assets\Textures\highscores.png</PackagePath>
+      <Modified>2020-05-18T19:58:11.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\lefty.png">
+      <PackagePath>Assets\Textures\lefty.png</PackagePath>
+      <Modified>2020-05-18T15:52:48.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\level.png">
+      <PackagePath>Assets\Textures\level.png</PackagePath>
+      <Modified>2020-05-09T19:06:46.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\projectile.png">
+      <PackagePath>Assets\Textures\projectile.png</PackagePath>
+      <Modified>2020-05-18T16:18:58.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\righty.png">
+      <PackagePath>Assets\Textures\righty.png</PackagePath>
+      <Modified>2020-05-18T15:52:59.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\score.png">
+      <PackagePath>Assets\Textures\score.png</PackagePath>
+      <Modified>2020-05-17T21:19:13.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\timer.png">
+      <PackagePath>Assets\Textures\timer.png</PackagePath>
+      <Modified>2020-05-18T14:55:43.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\urhajo1.png">
+      <PackagePath>Assets\Textures\urhajo1.png</PackagePath>
+      <Modified>2020-05-17T17:13:43.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\urhajo2.png">
+      <PackagePath>Assets\Textures\urhajo2.png</PackagePath>
+      <Modified>2020-05-17T17:13:44.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\urhajo3.png">
+      <PackagePath>Assets\Textures\urhajo3.png</PackagePath>
+      <Modified>2020-05-17T17:13:44.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\urhajo4.png">
+      <PackagePath>Assets\Textures\urhajo4.png</PackagePath>
+      <Modified>2020-05-17T17:13:45.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Textures\urhajo5.png">
+      <PackagePath>Assets\Textures\urhajo5.png</PackagePath>
+      <Modified>2020-05-17T17:13:45.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-05-09T16:44:38.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2020-02-27T18:17:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2020-04-02T17:46:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2020-04-02T17:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-07-22T20:16:32.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\UWPGame.dll">
+      <PackagePath>UWPGame.dll</PackagePath>
+      <Modified>2020-07-22T20:17:03.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\UWPGame.exe">
+      <PackagePath>UWPGame.exe</PackagePath>
+      <Modified>2020-07-22T20:17:04.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GameFiles\GalagaIsh\UWPGame\bin\x64\Release\ilc\UWPGame.pdb">
+      <PackagePath>UWPGame.pdb</PackagePath>
+      <Modified>2020-07-22T20:17:04.116</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.27912.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.27912.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.7-rel-28605-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\GyuGya_55\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.8-rel-28605-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

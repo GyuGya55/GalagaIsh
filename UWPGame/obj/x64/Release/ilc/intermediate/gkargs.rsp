@@ -1,0 +1,8 @@
+﻿"C:\GameFiles\GalagaIsh\UWPGame\obj\x64\Release\ilc\in\Microsoft.Graphics.Canvas.winmd"
+"C:\GameFiles\GalagaIsh\UWPGame\obj\x64\Release\ilc\in\UWPGame.exe"
+/Lib:"C:\GameFiles\GalagaIsh\UWPGame\obj\x64\Release\ilc\in"
+/Lib:"C:\Users\GyuGya_55\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Private"
+/WinMD:"C:\GameFiles\GalagaIsh\UWPGame\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"bc3a2acc-4057-4ad6-a376-7456fc04bd46","Id":"7cc8b7d8-19f9-49d6-bc90-51fd53f06431","ProcessStartTime":637310456878177733}"
+/RdXmlPath:"C:\Users\GyuGya_55\.nuget\packages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
